@@ -42,6 +42,8 @@ Here are some ideas to get you started:
  </a>
 </p>
 
+## Bonjour
+
 <p align="center">
   <a href="https://ravehunter05.github.io">
     <img src="https://badges.pufler.dev/visits/ravehunter05/ravehunter05?style=flat-square&color=green&logo=github">
