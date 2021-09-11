@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align = "center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=ravehunter05&count_private=true&show_icons=true&theme=graywhite&line_height=30&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravehunter05&hide=html,css&theme=graywhite&hide_border=true">
 </p>
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 📫 How to Reach Me
 
-<p align="center">
+<p>
  <a href="https://RaveHunter05.github.io">
   <img src="https://img.shields.io/badge/ravehunter05-%23206A5D.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
  </a>
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ## 📈 My Stats
 
-<p align="center">
+<p>
     <img src="https://badges.pufler.dev/visits/ravehunter05/ravehunter05?style=flat-square&color=green&logo=github">
     <img src="https://badges.pufler.dev/years/ravehunter05?style=flat-square&color=green&logo=github">
     <img src="https://badges.pufler.dev/repos/ravehunter05?style=flat-square&color=green&logo=github">
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Technologies & Tools
 
-<p align="center">
+<p>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
