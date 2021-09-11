@@ -40,6 +40,10 @@ Here are some ideas to get you started:
  <a href="https://wa.me/50577312543">
   <img src="https://img.shields.io/badge/Whatsapp-%2300BFA5.svg?&style=for-the-badge&logo=Whatsapp&logoColor=white" />
  </a>
+  
+   <a href="https://telegram.me/RaveHunter05">
+  <img src="https://img.shields.io/badge/ravehunter05-%23206A5D.svg?&style=for-the-badge&logo=Telegram&logoColor=white" />
+ </a>
 </p>
 
 ## 📈 My Stats
