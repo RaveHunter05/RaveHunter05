@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 </p>
 
-## 🕒 Some WakaTime information about me
+## 🕒 Some WakaTime info about me
 
 <!--START_SECTION:waka-->
 
