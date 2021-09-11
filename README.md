@@ -18,6 +18,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravehunter05&hide=html,css&theme=graywhite&hide_border=true">
 </p>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ravehunter05)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📫 How to Reach Me
 
 <p align="center">
