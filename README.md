@@ -18,7 +18,23 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravehunter05&hide=html,css&theme=graywhite&hide_border=true">
 </p>
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=ravehunter05)](https://wakatime.com/@ravehunter05)
+<!--START_SECTION:waka-->
+
+name: Waka Readme
+
+on:
+schedule: # Runs at 12am IST - cron: '30 18 \* \* \*'
+workflow_dispatch:
+jobs:
+update-readme:
+name: Update Readme with Metrics
+runs-on: ubuntu-latest
+steps: - uses: anmol098/waka-readme-stats@master
+with:
+WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+<!--END_SECTION:waka-->
 
 ## 📫 How to Reach Me
 
