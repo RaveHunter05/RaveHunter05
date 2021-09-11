@@ -42,7 +42,7 @@ Here are some ideas to get you started:
  </a>
   
    <a href="https://telegram.me/RaveHunter05">
-  <img src="https://img.shields.io/badge/ravehunter05-%23206A5D.svg?&style=for-the-badge&logo=Telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-%23206A5D.svg?&style=for-the-badge&logo=Telegram&logoColor=white" />
  </a>
 </p>
 
