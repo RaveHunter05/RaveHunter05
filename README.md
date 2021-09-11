@@ -58,8 +58,6 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
-🛠️ Technologies & Tools
-
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 <!--END_SECTION:waka-->
