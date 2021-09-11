@@ -42,24 +42,14 @@ Here are some ideas to get you started:
  </a>
 </p>
 
-## Bonjour
+## 📈 My Stats
 
 <p align="center">
-  <a href="https://ravehunter05.github.io">
     <img src="https://badges.pufler.dev/visits/ravehunter05/ravehunter05?style=flat-square&color=green&logo=github">
-  </a>
-  <a href="https://ravehunter05.github.io">
     <img src="https://badges.pufler.dev/years/ravehunter05?style=flat-square&color=green&logo=github">
-  </a>
-  <a href="https://ravehunter05.github.io">
     <img src="https://badges.pufler.dev/repos/ravehunter05?style=flat-square&color=green&logo=github">
-  </a>
-  <a href="https://ravehunter05.github.io">
     <img src="https://badges.pufler.dev/gists/ravehunter05?style=flat-square&color=green&logo=github">
-  </a>
-  <a href="https://ravehunter05.github.io">
     <img src="https://badges.pufler.dev/commits/monthly/ravehunter05?style=flat-square&color=green&logo=github">
-  </a>
 </p>
 
 <!--END_SECTION:waka-->
