@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravehunter05&hide=html,css&theme=graywhite&hide_border=true">
 </p>
 
-[![francisco's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ravehunter05)](https://github.com/ravehunter05/ravehunter05)
+[![francisco's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ravehunter05)](https://wakatime.com/@ravehunter05)
 
 ## 📫 How to Reach Me
 
