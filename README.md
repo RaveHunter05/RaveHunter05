@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <!--
-**buster95/buster95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -24,41 +22,41 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a href="https://RaveHunter05.github.io">
-  <img src="https://img.shields.io/badge/buster95-%23206A5D.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/ravehunter05-%23206A5D.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
  </a>
 
- <a href="https://www.linkedin.com/in/walter-corrales">
+ <a href="https://www.linkedin.com/in/paul-sotelo-rocha-68733687/">
   <img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
 
- <a href="https://join.skype.com/invite/sHS1s5NqCXhJ">
+ <a href="https://join.skype.com/invite/viy3VgZfhRKv">
   <img src="https://img.shields.io/badge/chat-%2300AFF0.svg?&style=for-the-badge&logo=skype&logoColor=white" />
  </a>
 
- <a href="mailto:walter.r.corrales@gmail.com">
+ <a href="mailto:paulsotelo97@gmail.com">
   <img src="https://img.shields.io/badge/email-%23C14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
  </a>
 
- <a href="https://wa.me/50585154220">
+ <a href="https://wa.me/50577312543">
   <img src="https://img.shields.io/badge/Whatsapp-%2300BFA5.svg?&style=for-the-badge&logo=Whatsapp&logoColor=white" />
  </a>
 </p>
 
 <p align="center">
-  <a href="https://buster95.github.io">
-    <img src="https://badges.pufler.dev/visits/buster95/buster95?style=flat-square&color=green&logo=github">
+  <a href="https://ravehunter05.github.io">
+    <img src="https://badges.pufler.dev/visits/ravehunter05/ravehunter05?style=flat-square&color=green&logo=github">
   </a>
-  <a href="https://buster95.github.io">
-    <img src="https://badges.pufler.dev/years/buster95?style=flat-square&color=green&logo=github">
+  <a href="https://ravehunter05.github.io">
+    <img src="https://badges.pufler.dev/years/ravehunter05?style=flat-square&color=green&logo=github">
   </a>
-  <a href="https://buster95.github.io">
-    <img src="https://badges.pufler.dev/repos/buster95?style=flat-square&color=green&logo=github">
+  <a href="https://ravehunter05.github.io">
+    <img src="https://badges.pufler.dev/repos/ravehunter05?style=flat-square&color=green&logo=github">
   </a>
-  <a href="https://buster95.github.io">
-    <img src="https://badges.pufler.dev/gists/buster95?style=flat-square&color=green&logo=github">
+  <a href="https://ravehunter05.github.io">
+    <img src="https://badges.pufler.dev/gists/ravehunter05?style=flat-square&color=green&logo=github">
   </a>
-  <a href="https://buster95.github.io">
-    <img src="https://badges.pufler.dev/commits/monthly/buster95?style=flat-square&color=green&logo=github">
+  <a href="https://ravehunter05.github.io">
+    <img src="https://badges.pufler.dev/commits/monthly/ravehunter05?style=flat-square&color=green&logo=github">
   </a>
 </p>
 
