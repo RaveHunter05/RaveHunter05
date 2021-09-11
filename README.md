@@ -54,4 +54,8 @@ Here are some ideas to get you started:
     <img src="https://badges.pufler.dev/commits/monthly/ravehunter05?style=flat-square&color=green&logo=github">
 </p>
 
+🛠️ Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
 <!--END_SECTION:waka-->
