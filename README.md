@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ravehunter05&count_private=true&show_icons=true&theme=graywhite&line_height=30&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravehunter05&hide=html,css&theme=graywhite&hide_border=true">
+</p>
 
 
 ## 📫 How to Reach Me
