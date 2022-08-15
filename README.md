@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 ## 🕒 Some WakaTime info about me
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%204%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -123,5 +123,5 @@ PHP                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2022 18:48:13 UTC
+ Last Updated on 15/08/2022 18:52:14 UTC
 <!--END_SECTION:waka-->
