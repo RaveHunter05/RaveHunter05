@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 ## 🕒 Some WakaTime info about me
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%2032%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -102,11 +102,11 @@ Sunday       41 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-GraphQL                  1 min               ██████████████░░░░░░░░░░░   58.19% 
-TypeScript               0 secs              ██████████░░░░░░░░░░░░░░░   41.81%
+GraphQL                  1 min               ████████████████░░░░░░░░░   66.42% 
+TypeScript               0 secs              ████████░░░░░░░░░░░░░░░░░   33.58%
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+VS Code                  1 min               █████████████████████████   100.0%
 
 ```
 
@@ -123,5 +123,5 @@ PHP                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2022 18:54:14 UTC
+ Last Updated on 10/09/2022 18:52:16 UTC
 <!--END_SECTION:waka-->
