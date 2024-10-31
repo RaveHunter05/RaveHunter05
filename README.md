@@ -1,4 +1,4 @@
-# Hello, Raven Here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![image](https://github.com/user-attachments/assets/97cbff4a-5176-4884-a2d1-4a3f5f733a85)# Hello, Raven Here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 Here are some ideas to get you started:
@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 
 <p>
 
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img width="60" height="60" />
+<img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" width="60" height="60" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="60" height="60" />
-![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/dotnetCore.component.complex-narrative-xl.ts=1691583540732.png/content/adobe-cms/mx/es/products/instana/supported-technologies/dotnet-core-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" width="100" height="60" />
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&VdlogoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&VdlogoColor=white&color=2bbc8a)
