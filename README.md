@@ -42,16 +42,6 @@ Here are some ideas to get you started:
  </a>
 </p>
 
-## 📈 My Stats
-
-<p>
-    <img src="https://badges.pufler.dev/visits/ravehunter05/ravehunter05?style=flat-square&color=green&logo=github">
-    <img src="https://badges.pufler.dev/years/ravehunter05?style=flat-square&color=green&logo=github">
-    <img src="https://badges.pufler.dev/repos/ravehunter05?style=flat-square&color=green&logo=github">
-    <img src="https://badges.pufler.dev/gists/ravehunter05?style=flat-square&color=green&logo=github">
-    <img src="https://badges.pufler.dev/commits/monthly/ravehunter05?style=flat-square&color=green&logo=github">
-</p>
-
 ## 🛠️ Technologies & Tools
 
 <p>
