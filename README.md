@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 📫 How to Reach Me
+## 📫 Contact
 
 <p>
  <a href="https://RaveHunter05.github.io">
