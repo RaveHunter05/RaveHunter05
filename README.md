@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Technologies & Tools
 
-<div style='display="flex"; flex-direction="row"'>
+<div style='display="flex"; flex-direction="row"; justify-content="space-between"'>
 
 <img src="https://cdn.pixabay.com/photo/2020/02/22/16/29/penguin-4871045_640.png" width="60" height="60" style='margin="0 10px 0 0"'/>
 <img src="https://static-00.iconduck.com/assets.00/react-icon-2048x2048-o8k3ymqa.png" width="60" height="60" />
