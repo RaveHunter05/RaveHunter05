@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <img src="https://static-00.iconduck.com/assets.00/react-icon-2048x2048-o8k3ymqa.png" width="60" height="60" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="60" height="60" />
 <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/dotnetCore.component.complex-narrative-xl.ts=1691583540732.png/content/adobe-cms/mx/es/products/instana/supported-technologies/dotnet-core-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" width="100" height="60" />
-<img src="https://www.securities.io/wp-content/uploads/2021/03/solana-1.png" width="60" height="60" />
+<img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png" width="60" height="60" />
 
 </p>
 
