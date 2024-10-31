@@ -80,17 +80,6 @@ Saturday                 464 commits         █████░░░░░░�
 Sunday                   410 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
