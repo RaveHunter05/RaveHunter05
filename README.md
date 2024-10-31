@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <p>
 
 <img width="60" height="60" />
-<img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" width="60" height="60" />
+<img src="https://e7.pngegg.com/pngimages/255/1006/png-clipart-react-javascript-webbylab-computer-icons-angularjs-github-text-logo.png" width="60" height="60" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="60" height="60" />
 <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/dotnetCore.component.complex-narrative-xl.ts=1691583540732.png/content/adobe-cms/mx/es/products/instana/supported-technologies/dotnet-core-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" width="100" height="60" />
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&VdlogoColor=white&color=2bbc8a)
