@@ -62,8 +62,6 @@ Here are some ideas to get you started:
 ## 🕒 Some WakaTime info about me
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%2032%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -108,5 +106,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2025 18:42:03 UTC
+ Last Updated on 15/02/2025 18:40:11 UTC
 <!--END_SECTION:waka-->
