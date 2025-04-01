@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 <div>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="60" height="60" />
  <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/dotnetCore.component.complex-narrative-xl.ts=1691583540732.png/content/adobe-cms/mx/es/products/instana/supported-technologies/dotnet-core-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" width="100" height="60" />
+  <img src="https://cdn.bap-software.net/2024/08/26213247/spring.jpg" width="100" height="60" />
 </div>
 
 <div>
-<img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png" width="60" height="60" />
 <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/1027.png" width="60" height="60" />
 </div>
 </div>
