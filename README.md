@@ -48,6 +48,7 @@ Here are some ideas to get you started:
  
 <div> <img src="https://cdn.pixabay.com/photo/2020/02/22/16/29/penguin-4871045_640.png" width="60" height="60"/> </div>
 <img src="https://static-00.iconduck.com/assets.00/react-icon-2048x2048-o8k3ymqa.png" width="60" height="60" />
+<img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="60" height="60" />
 <div>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="60" height="60" />
  <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/dotnetCore.component.complex-narrative-xl.ts=1691583540732.png/content/adobe-cms/mx/es/products/instana/supported-technologies/dotnet-core-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" width="100" height="60" />
