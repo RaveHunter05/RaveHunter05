@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <div style="display: flex; flex-direction: column; padding: 20px;">
  
 <div> <img src="https://cdn.pixabay.com/photo/2020/02/22/16/29/penguin-4871045_640.png" width="60" height="60"/> </div>
-<img src="https://static-00.iconduck.com/assets.00/react-icon-2048x2048-o8k3ymqa.png" width="60" height="60" style="margin-right: 1em;"/>
+<img src="https://static-00.iconduck.com/assets.00/react-icon-2048x2048-o8k3ymqa.png" width="60" height="60" style="margin-right: 30px;"/>
 <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="60" height="60" />
 <div>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="60" height="60" />
