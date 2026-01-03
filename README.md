@@ -68,15 +68,15 @@ Here are some ideas to get you started:
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 Python                   10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 C#                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 Solidity                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 ```
 
 
 
 
- Last Updated on 02/01/2026 18:47:52 UTC
+ Last Updated on 03/01/2026 18:46:50 UTC
 <!--END_SECTION:waka-->
