@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ## 🕒 Some WakaTime info about me
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C016%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C016%20hrs%2038%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -115,5 +115,5 @@ Solidity                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:47:43 UTC
+ Last Updated on 05/01/2026 18:50:09 UTC
 <!--END_SECTION:waka-->
