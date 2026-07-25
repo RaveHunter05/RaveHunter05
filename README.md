@@ -65,6 +65,8 @@ Here are some ideas to get you started:
 ## 🕒 Some WakaTime info about me
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C149%20hrs%2028%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -90,13 +92,12 @@ Sunday                   484 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               59 mins             ██████████████░░░░░░░░░░░   55.18 % 
-TypeScript               31 mins             ███████░░░░░░░░░░░░░░░░░░   29.56 % 
-Other                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+JavaScript               59 mins             ███████████████░░░░░░░░░░   58.69 % 
+TypeScript               30 mins             ███████░░░░░░░░░░░░░░░░░░   29.94 % 
+Other                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 
 🔥 Editors: 
-Neovim                   1 hr 47 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,5 +113,5 @@ Solidity                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 20:00:12 UTC
+ Last Updated on 25/07/2026 19:49:02 UTC
 <!--END_SECTION:waka-->
