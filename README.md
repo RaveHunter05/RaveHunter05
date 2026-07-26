@@ -92,12 +92,14 @@ Sunday                   484 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               59 mins             ███████████████░░░░░░░░░░   58.69 % 
-TypeScript               30 mins             ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-Other                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+JavaScript               59 mins             ████████████░░░░░░░░░░░░░   49.12 % 
+TypeScript               35 mins             ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+Java                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+netrw                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Neovim                   1 hr 41 mins        █████████████████████████   100.00 % 
+Neovim                   2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,5 +115,5 @@ Solidity                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:49:02 UTC
+ Last Updated on 26/07/2026 19:48:39 UTC
 <!--END_SECTION:waka-->
