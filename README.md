@@ -65,24 +65,26 @@ Here are some ideas to get you started:
 ## 🕒 Some WakaTime info about me
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C125%20hrs%206%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                397 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-🌆 Daytime                959 commits         ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-🌃 Evening                1641 commits        ██████████░░░░░░░░░░░░░░░   40.39 % 
-🌙 Night                  1066 commits        ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+🌞 Morning                397 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+🌆 Daytime                959 commits         ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+🌃 Evening                1641 commits        ██████████░░░░░░░░░░░░░░░   40.35 % 
+🌙 Night                  1070 commits        ███████░░░░░░░░░░░░░░░░░░   26.31 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   706 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Tuesday                  733 commits         █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Wednesday                686 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Thursday                 490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Friday                   476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Saturday                 474 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Sunday                   498 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Monday                   706 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Tuesday                  733 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Wednesday                686 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Thursday                 490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Friday                   480 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Saturday                 474 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Sunday                   498 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
 ```
 
 
@@ -90,14 +92,14 @@ Sunday                   498 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 12 mins       █████████████████░░░░░░░░   66.07 % 
-TypeScript               1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   32.21 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-netrw                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Java                     3 hrs 59 mins       ███████████████░░░░░░░░░░   61.88 % 
+TypeScript               2 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   34.46 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+netrw                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 51 mins       █████████████████████████   100.00 % 
+Neovim                   6 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -109,15 +111,15 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Python                   11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-C#                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Solidity                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+TypeScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Python                   11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+C#                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 
 
 
 
- Last Updated on 07/08/2026 00:29:28 UTC
+ Last Updated on 07/08/2026 19:35:25 UTC
 <!--END_SECTION:waka-->
