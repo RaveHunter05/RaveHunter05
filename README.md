@@ -65,8 +65,6 @@ Here are some ideas to get you started:
 ## 🕒 Some WakaTime info about me
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C122%20hrs%2031%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -92,14 +90,14 @@ Sunday                   498 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 47 mins        █████████████░░░░░░░░░░░░   50.64 % 
-TypeScript               1 hr 40 mins        ████████████░░░░░░░░░░░░░   47.23 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-netrw                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Java                     3 hrs 12 mins       █████████████████░░░░░░░░   66.07 % 
+TypeScript               1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   32.21 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+netrw                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 31 mins       █████████████████████████   100.00 % 
+Neovim                   4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -121,5 +119,5 @@ Solidity                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:14:20 UTC
+ Last Updated on 07/08/2026 00:29:28 UTC
 <!--END_SECTION:waka-->
