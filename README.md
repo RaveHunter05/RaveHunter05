@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ## 🕒 Some WakaTime info about me
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C125%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C126%20hrs%2032%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -92,14 +92,14 @@ Sunday                   498 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 59 mins       ███████████████░░░░░░░░░░   61.88 % 
-TypeScript               2 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   34.46 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-netrw                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Java                     3 hrs 32 mins       ████████████░░░░░░░░░░░░░   46.10 % 
+TypeScript               2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+Astro                    1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Lua                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 26 mins       █████████████████████████   100.00 % 
+Neovim                   7 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -121,5 +121,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 19:35:25 UTC
+ Last Updated on 08/08/2026 19:12:08 UTC
 <!--END_SECTION:waka-->
