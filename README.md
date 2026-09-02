@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ## 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,react,python,spring" alt="Linux, React, Python, Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=linux,git,python,java,spring,react,js,postgres,docker" alt="Tech stack" />
 </p>
 
 ## 🕒 Some WakaTime info about me
