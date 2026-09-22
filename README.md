@@ -78,10 +78,11 @@ Sunday                   556 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     9 mins              ████████████████████████░   97.92 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -103,5 +104,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 22:13:49 UTC
+ Last Updated on 22/09/2026 21:40:24 UTC
 <!--END_SECTION:waka-->
