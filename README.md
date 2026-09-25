@@ -78,8 +78,9 @@ Sunday                   556 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     18 mins             ████████████████████████░   97.29 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Java                     18 mins             ████████████████████████░   97.03 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
 Neovim                   19 mins             █████████████████████████   100.00 % 
@@ -104,5 +105,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 21:49:06 UTC
+ Last Updated on 25/09/2026 21:50:37 UTC
 <!--END_SECTION:waka-->
