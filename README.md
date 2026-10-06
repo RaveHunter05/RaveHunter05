@@ -78,14 +78,14 @@ Sunday                   563 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     56 mins             ███████████████████░░░░░░   74.44 % 
-TypeScript               15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Java                     56 mins             ███████████████████░░░░░░   75.74 % 
+TypeScript               14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 netrw                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Neovim                   1 hr 15 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,5 +107,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 21:54:49 UTC
+ Last Updated on 06/10/2026 00:19:39 UTC
 <!--END_SECTION:waka-->
