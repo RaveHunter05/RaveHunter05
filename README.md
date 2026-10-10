@@ -56,19 +56,19 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                424 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-🌆 Daytime                1137 commits        ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-🌃 Evening                1811 commits        ██████████░░░░░░░░░░░░░░░   39.40 % 
+🌞 Morning                424 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+🌆 Daytime                1137 commits        ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+🌃 Evening                1812 commits        ██████████░░░░░░░░░░░░░░░   39.42 % 
 🌙 Night                  1224 commits        ███████░░░░░░░░░░░░░░░░░░   26.63 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   748 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Monday                   748 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
 Tuesday                  827 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
 Wednesday                793 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
 Thursday                 543 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Friday                   586 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Friday                   587 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
 Saturday                 536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
 Sunday                   563 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
 ```
@@ -78,12 +78,14 @@ Sunday                   563 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 55 mins        ██████████████░░░░░░░░░░░   56.06 % 
-TypeScript               1 hr 28 mins        ███████████░░░░░░░░░░░░░░   42.95 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Java                     2 hrs 9 mins        █████████████░░░░░░░░░░░░   52.43 % 
+TypeScript               1 hr 48 mins        ███████████░░░░░░░░░░░░░░   43.97 % 
+conf                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+kitty                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 25 mins       █████████████████████████   100.00 % 
+Neovim                   4 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,5 +107,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 22:54:06 UTC
+ Last Updated on 10/10/2026 22:00:44 UTC
 <!--END_SECTION:waka-->
