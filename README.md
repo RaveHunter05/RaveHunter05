@@ -51,26 +51,26 @@ Here are some ideas to get you started:
 ## 🕒 Some WakaTime info about me
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C149%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C149%20hrs%2047%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                426 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-🌆 Daytime                1206 commits        ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-🌃 Evening                1820 commits        ██████████░░░░░░░░░░░░░░░   38.76 % 
-🌙 Night                  1244 commits        ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+🌞 Morning                426 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+🌆 Daytime                1232 commits        ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+🌃 Evening                1822 commits        ██████████░░░░░░░░░░░░░░░   38.48 % 
+🌙 Night                  1255 commits        ███████░░░░░░░░░░░░░░░░░░   26.50 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   758 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Tuesday                  862 commits         █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Wednesday                807 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Thursday                 547 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Friday                   623 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Saturday                 536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Sunday                   563 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Monday                   759 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Tuesday                  875 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Wednesday                813 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Thursday                 550 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Friday                   639 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Saturday                 536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Sunday                   563 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 ```
 
 
@@ -78,14 +78,14 @@ Sunday                   563 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 50 mins        ███████████████░░░░░░░░░░   60.19 % 
-Lua                      57 mins             ████████░░░░░░░░░░░░░░░░░   31.19 % 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-netrw                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Java                     1 hr 31 mins        ██████████████░░░░░░░░░░░   56.64 % 
+Lua                      57 mins             █████████░░░░░░░░░░░░░░░░   35.96 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 2 mins        █████████████████████████   100.00 % 
+Neovim                   2 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,5 +107,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 22:51:38 UTC
+ Last Updated on 29/10/2026 22:59:42 UTC
 <!--END_SECTION:waka-->
